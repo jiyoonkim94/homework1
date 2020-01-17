@@ -1,0 +1,16 @@
+img{
+    height: 130px;
+}
+h1 {
+    font-size: 30 pt;
+}
+h2{
+    font-size: 12;
+}
+h3{
+    font-size: 12;
+}
+body{
+    border-style: solid;
+    border-width: 1px;
+}
